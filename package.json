@@ -1,0 +1,9 @@
+{
+  "name": "modj",
+  "version": "0.0.1",
+  "description": "A module (tracker) player library",
+  "main": "index.js",
+  "repository": "https://github.com/devsdmf/modj",
+  "author": "Lucas Mendes <devsdmf@gmail.com>",
+  "license": "MIT"
+}
